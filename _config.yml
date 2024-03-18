@@ -1,7 +1,7 @@
 # Site settings
 title: DHAVAL PATEL
-email:
-description: > # this means to ignore newlines until "baseurl:"
+email: dhavalpatel97115@gmail.com
+description: "Step into my data analyst portfolio—an exploration of insights and strategic data narratives, shaping informed business choices."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
